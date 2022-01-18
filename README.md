@@ -1,2 +1,4 @@
-"# LangageSQL"  git init git add . git commit -m "first commit" git branch -M main git remote add origin https://github.com/john26-creator/LangageSQL.git git push -u origin main
-"# LangageSQL" 
+"# LangageSQL" Dans ce repository vous trouverez :
+-Les Export SQL des bases de données utiilisées pendant le cours
+-Les énoncés des exercices au formats word
+-La correction des exercices
